@@ -116,15 +116,10 @@ network monitoring and congestion analysis.
   **Software/Data Science practices** (ML, EDA, evaluation)
 - Provides an industry-aligned approach to 5G network analytics
 
----
 
-## Future Scope
-- Extend to latency and jitter modeling
-- Integrate real-time inference API for monitoring systems
-- Apply the pipeline to additional 5G application categories
 
 ---
 
 ## Author
-HP
-cross-domain expertise in **5G networks, machine learning, and data science**.
+-HP
+
